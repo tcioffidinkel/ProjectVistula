@@ -1,5 +1,4 @@
 # ProjectVistula
-#Secret shit
 
-Authors: Will Vasko, Timothy Cioffi
+Authors: Will V, Timothy C
 Version: 1.0
